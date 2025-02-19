@@ -81,3 +81,22 @@ more liquidity = better exchange
 
 2. Market Depth
 Market depth refers to the order book’s ability to absorb large buy or sell orders without significantly impacting the price. It represents the volume of limit buy and sell orders at different price levels.
+
+1. Maker (Liquidity Provider)
+A maker is a trader who places limit orders that add liquidity to the order book. Their order stays in the order book until another trader matches it.
+
+"Makes" the market by providing buy/sell orders
+Uses limit orders (e.g., "Buy 1 BTC at $39,500")
+Lower fees (or even rebates on some exchanges)
+Helps with market stability
+
+
+2. Taker (Liquidity Consumer)
+A taker is a trader who places a market order (or an instantly matching limit order) that removes liquidity from the order book
+
+"Takes" liquidity by filling existing orders
+Uses market orders (e.g., "Buy 1 BTC at the best price")
+Higher fees (since they demand immediate execution)
+Helps with faster order execution
+
+taker fee > maker fee
