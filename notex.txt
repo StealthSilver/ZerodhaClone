@@ -44,3 +44,7 @@ a. user can sign up , sign in
 b. users needs KYC and can connect their DEMAT (Dematerialized Account)
 c. user can place orders (limit and Market orders)
 d. user can see their balances and open orders
+
+Finance Jargon
+
+the price of stocks are determined by the supply - demand
