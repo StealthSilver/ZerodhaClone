@@ -1,0 +1,40 @@
+ZERODHA TRADING PLATFORM
+
+BASICS 
+
+reasons for low lantency 
+
+1. Hardware Optimization:
+2. Software Optimization: 
+    Kernel Bypass: Techniques like kernel bypass (e.g., using DPDK or Solarflare's OpenOnload) to reduce operating system overhead.
+3. Market Data Feeds:
+3. Order Matching Engine:
+4. Latency Monitoring and Reduction:
+
+e.g. NASDAQ , NYSE , CME , EUREX , ZERODHA
+
+Technologies Used in Low-Latency Exchange Systems
+
+FPGAs (Field-Programmable Gate Arrays):
+
+Hardware devices that can be programmed to perform specific tasks with extremely low latency.
+
+Kernel Bypass Libraries:
+
+Tools like DPDK (Data Plane Development Kit) or Solarflare's OpenOnload to reduce OS overhead.
+
+In-Memory Databases:
+
+Storing and processing data in RAM for faster access.
+
+Custom Protocols:
+
+Proprietary protocols designed for speed and efficiency.
+
+functional requirements 
+
+1. signup
+2. KYC
+3. Balances <-> Banks
+now you can start trading
+
