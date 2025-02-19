@@ -1,0 +1,36 @@
+Fastest Languages (Low-Level, Compiled)
+
+These languages are closest to machine code, offering maximum performance with fine control over memory.
+
+Assembly – Directly translates to machine code, the fastest possible execution.
+C – Lightweight, compiled, and allows manual memory management.
+Rust – Memory safety without a garbage collector; compiled to efficient machine code.
+C++ – Similar to C but with added features like object-oriented programming.
+Zig – A modern, fast alternative to C with safety features.
+
+Mid-Speed Languages (Optimized Compiled & JIT-Compiled)
+These languages are compiled but may include runtime optimizations, Just-In-Time (JIT) compilation, or garbage collection, which can slightly impact speed.
+
+Go – Compiled, with fast execution and a lightweight garbage collector.
+Swift – Highly optimized for Apple hardware, compiled but includes safety features.
+Java – Uses a JIT compiler, so it's slower than pure compiled languages but optimized for performance.
+Kotlin – Runs on the JVM like Java, with similar speed.
+D – Compiled like C++ but with garbage collection.
+
+Slower Languages (Interpreted & High-Level)
+These languages prioritize ease of development over execution speed and often use interpreters or bytecode.
+
+C# – JIT-compiled on .NET runtime; faster than most interpreted languages.
+Julia – JIT-compiled, optimized for scientific computing.
+JavaScript (Node.js) – JIT-compiled, optimized for web applications.
+Python – Interpreted with dynamic typing, making it slower than compiled languages.
+Ruby – Similar to Python but typically slower due to less optimization.
+PHP – Interpreted, slower than JavaScript and Python in most cases.
+
+Slowest Languages (Fully Interpreted & Scripting)
+These languages prioritize flexibility and ease of use over raw performance.
+
+Perl – Powerful for text processing but slower than Python.
+Lua – Used in game scripting, faster than Python but still interpreted.
+Bash (Shell Scripting) – Mainly used for automation, not built for speed.
+R – Optimized for statistical computing, but slow due to dynamic typing and interpretation.
