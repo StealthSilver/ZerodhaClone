@@ -69,3 +69,5 @@ Cracteristics of a Market Order:
 Executed instantly at the current market price
 Guarantees execution but not the price (price may change due to slippage)
 Used when speed is more important than price
+
+they are used by retail
