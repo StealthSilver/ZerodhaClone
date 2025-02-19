@@ -33,8 +33,14 @@ Proprietary protocols designed for speed and efficiency.
 
 functional requirements 
 
-1. signup
+1. Signup
 2. KYC
 3. Balances <-> Banks
 now you can start trading
 
+How exchanges work 
+
+a. user can sign up , sign in 
+b. users needs KYC and can connect their DEMAT 
+c. user can place orders (limit and Market orders)
+d. user can see their balances and open orders
