@@ -90,7 +90,6 @@ Uses limit orders (e.g., "Buy 1 BTC at $39,500")
 Lower fees (or even rebates on some exchanges)
 Helps with market stability
 
-
 2. Taker (Liquidity Consumer)
 A taker is a trader who places a market order (or an instantly matching limit order) that removes liquidity from the order book
 
