@@ -102,6 +102,6 @@ taker fee > maker fee
 
 
 creating low latency:
-1. using faster programming languages : c , c++
+1. using faster programming languages : c , c++ , rust , assembly , zig
 2. in memory orderbooks 
 3. faster serialization and deserialization of data
