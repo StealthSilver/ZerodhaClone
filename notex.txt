@@ -53,3 +53,19 @@ Orderbook : An order book is a real-time electronic list of buy and sell orders 
 the orderbook is public, it contains the orders that are not matching
 
 the price of any asset is the price on which the last order was completed
+
+1. Limit Order
+A limit order is an order to buy or sell an asset at a specific price or better. It does not execute instantly but waits in the order book until a matching order is available.
+
+Characteristics of a Limit Order:
+Sets an exact price (no slippage)
+Not guaranteed to execute (depends on market movement)
+Used when price control is more important than speed
+
+2. Market Order
+A market order is an order to buy or sell an asset immediately at the best available price in the order book.
+
+Cracteristics of a Market Order:
+Executed instantly at the current market price
+Guarantees execution but not the price (price may change due to slippage)
+Used when speed is more important than price
