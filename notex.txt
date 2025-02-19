@@ -71,3 +71,13 @@ Guarantees execution but not the price (price may change due to slippage)
 Used when speed is more important than price
 
 they are used by retail
+
+LIQUIDITY AND MARKET DEPTH
+
+1. Liquidity
+Liquidity refers to how easily an asset can be bought or sold without affecting its price. A highly liquid market has many buyers and sellers, allowing large trades to happen quickly and with minimal price change.
+more liquidity = better exchange 
+
+
+2. Market Depth
+Market depth refers to the order book’s ability to absorb large buy or sell orders without significantly impacting the price. It represents the volume of limit buy and sell orders at different price levels.
