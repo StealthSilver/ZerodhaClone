@@ -99,3 +99,9 @@ Higher fees (since they demand immediate execution)
 Helps with faster order execution
 
 taker fee > maker fee
+
+
+creating low latency:
+1. using faster programming languages : c , c++
+2. in memory orderbooks 
+3. faster serialization and deserialization of data
