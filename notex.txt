@@ -51,3 +51,5 @@ the price of stocks are determined by the supply - demand
 
 Orderbook : An order book is a real-time electronic list of buy and sell orders for a particular financial asset, such as stocks, cryptocurrencies, or commodities. It is used in trading platforms to show market participants' intentions to buy (bids) and sell (asks) at different price levels.
 the orderbook is public, it contains the orders that are not matching
+
+the price of any asset is the price on which the last order was completed
