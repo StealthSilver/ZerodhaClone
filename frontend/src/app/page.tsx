@@ -1,9 +1,8 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-blue-500 text-white text-3xl">
-      HELLO
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 text-gray-900">
+      <h1 className="text-4xl font-bold">Welcome to Zerodha Clone</h1>
+      <p className="mt-4 text-lg">Your trusted online brokerage platform</p>
     </div>
   );
 }
