@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="bg-white text-[#666666] p-5">
       <div className="container mx-auto flex justify-between items-center">
         
-        <Link href="/" className=" font-bold hover:text-blue-800">
+        <Link href="/" className=" font-bold hover:text-blue-300">
           Zerodha Clone
         </Link>
         <ul className="flex space-x-6">
