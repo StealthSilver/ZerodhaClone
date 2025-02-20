@@ -15,7 +15,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="bg-gray-200 text-white p-4">
+    <nav className="bg-white text-[#666666] p-5">
       <div className="container mx-auto flex justify-between items-center">
         
         <Link href="/" className="text-xl font-bold hover:text-blue-400">
@@ -27,7 +27,7 @@ const Navbar = () => {
               <Link
                 href={link.href}
                 className={`hover:text-blue-400 ${
-                  pathname === link.href ? "text-blue-400 font-semibold" : ""
+                  pathname === link.href ? "text-blue-400 font-thin" : ""
                 }`}
               >
                 {link.label}
