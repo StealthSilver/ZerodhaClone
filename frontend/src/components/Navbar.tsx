@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="bg-white text-[#666666] p-5">
       <div className="container mx-auto flex justify-between items-center">
         
-        <Link href="/" className="text-xl font-bold hover:text-blue-400">
+        <Link href="/" className=" font-bold hover:text-blue-800">
           Zerodha Clone
         </Link>
         <ul className="flex space-x-6">
@@ -26,7 +26,7 @@ const Navbar = () => {
             <li key={link.href}>
               <Link
                 href={link.href}
-                className={`hover:text-blue-400 ${
+                className={`hover:text-blue-400 {
                   pathname === link.href ? "text-blue-400 font-thin" : ""
                 }`}
               >
